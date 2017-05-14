@@ -1,1 +1,1 @@
-MISC R Scripts
+This repo contains miscellaneous R Scripts.
